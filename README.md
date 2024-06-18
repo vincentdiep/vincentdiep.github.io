@@ -18,5 +18,13 @@
 - [COVID 19 Data Analysis](https://github.com/vincentdiep/Covid19_Data_Wrangling_Project)
   - Data cleaning and analysis done with R and RStudio.
 
+# Documentation Projects
+- [Supply Exchange Vision Document](https://docs.google.com/document/d/1UmF5G7UpSGP9VlBxBIa6st7CKimV8feY8npZzp8FHzM/edit?usp=sharing)
+  - Documentation for a conceptual web service outlining purpose, requirements, and use cases.
+ 
+- [Bezzla Software Architecture Document](https://docs.google.com/document/d/1AFoFOSeUK5eAbMX2LAZsEKKg-AC_Se3g/edit?usp=sharing&ouid=115452384992063470412&rtpof=true&sd=true)
+  - Architecture Documentation for conceptual autonomous navigation and driving system.
+  - Utilizes Views to analyze and process expected behaviors of the system.
+
 # For Fun Projects
 - [Gamba: Slot Machine Simulator](https://github.com/vincentdiep/Gamba)
