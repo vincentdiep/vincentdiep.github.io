@@ -16,6 +16,11 @@
 - [COVID 19 Data Analysis](https://github.com/vincentdiep/Covid19_Data_Wrangling_Project)
   - Data cleaning and analysis done with R and RStudio.
  
+- [Machine Learning Models](https://github.com/vincentdiep/Machine-Learning-Models)
+  - Utilized various machine learning models to analyze datasets.
+  - Models: KNN, Random Forect Classification, Decision Tree Classification, Kernel SVM,
+            K Means, Linear Regression, Polynomial Regression, XG Boost, Naive Bayes
+ 
 # Application Projects
 - [Gamba](https://github.com/vincentdiep/Gamba)
   - Slot machine game written in Python.
