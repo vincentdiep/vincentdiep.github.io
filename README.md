@@ -4,6 +4,11 @@
 - The best way to reach me is through my email : vincentdiep99@gmail.com
 
 # Data Projects
+- [Northwind Sales Analysis](https://github.com/vincentdiep/northwind-sales-analysis)
+  - Analyzed 11 years of Northwind Traders sales data using SQL, writing queries with multi-table JOINs, aggregations, subqueries, and date functions to answer 5 business questions.
+  - Identified that 4 product categories drive 62.75% of total revenue and that underperforming products share a common trait of low unit price rather than low demand.
+  - Visualized findings in Google Sheets dashboards and documented analysis in a public GitHub repository with structured query files and annotated README.
+
 - [Movie Data ETL Pipeline](https://github.com/vincentdiep/Movie-Data-ETL-Pipeline)
   - ETL script made using Python.
   - Database made using PostgreSQL.
@@ -20,17 +25,6 @@
   - Utilized various machine learning models to analyze datasets.
   - Models: KNN, Random Forect Classification, Decision Tree Classification, Kernel SVM,
             K Means, Linear Regression, Polynomial Regression, XG Boost, Naive Bayes
- 
-# Application Projects
-- [Gamba](https://github.com/vincentdiep/Gamba)
-  - Slot machine game written in Python.
-  - Memory usage optimized through ommitting unnecessary variables in loops.
-  - Designed to be easy to personalize data values with dictionary data structure.
- 
-- [AI TicTacToe](https://github.com/vincentdiep/AI-TicTacToe)
-  - TicTacToe game with A.I. opponent.
-  - Implemented minimax algorithm to enable A.I. to make optimal moves against the player.
-  - Robust system that prevents invalid moves from both the player and the A.I.
 
 # Documentation Projects
 - [Supply Exchange Vision Document](https://docs.google.com/document/d/1UmF5G7UpSGP9VlBxBIa6st7CKimV8feY8npZzp8FHzM/edit?usp=sharing)
